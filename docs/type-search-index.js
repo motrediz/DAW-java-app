@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.miapp.servlets","l":"AddBookServlet"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.miapp.servlets","l":"Consulta"},{"p":"com.miapp.utils","l":"DatabaseConnection"},{"p":"com.miapp.servlets","l":"DeleteBookServlet"},{"p":"com.miapp.servlets","l":"EditBookServlet"}];updateSearchResults();
